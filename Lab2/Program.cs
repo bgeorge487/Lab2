@@ -36,7 +36,7 @@ namespace Lab2
                 } while (userWidth == -1);
 
                 //Outputs for the area and perimeter of the room
-                Console.WriteLine($"{roomPerimeter = 2 * (userLength + userWidth)} is the perimeter of the room, and the area is {roomArea = userLength * userWidth}.");
+                Console.WriteLine($"{2 * (userLength + userWidth)} is the perimeter of the room, and the area is {userLength * userWidth}.");
 
                 //Asking for input on the height of the room
                 Console.WriteLine("Would you like to calculate the Volume? (Yes/No)");
