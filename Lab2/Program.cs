@@ -9,10 +9,7 @@ namespace Lab2
             string userInput = "";
             float userWidth = -1;
             float userLength = -1;
-            float roomPerimeter = -1;
-            float roomArea = -1;
             float roomHeight = -1;
-            float roomVolume = -1;
             bool goAgain = true;
 
 
